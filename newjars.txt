@@ -1,0 +1,27 @@
+F335  - fix the ui 
+
+today's task
+update logging switch from gwt-log to java.utils.logging on client and server
+cleaen up
+
+Updating jars
+Step1: Get the latest jar from menu Help- intall new softwares 
+Or go to help --> check for updates
+step2: replace all the files from eclipse - plugin - appengine new version to product/libs/appengine
+ex. libs, docs, etc
+step3: run build test.dev for bam and build test for gunton  to make sure all the tests run and passes
+step4: update eclipse to use new version of jars
+
+
+appengine download data csv
+
+
+Step1. Deploy to the maintenance mode
+make back up download_data app
+Step2 switch to the maintenance mode
+step3. run mappers
+
+anybody as paying
+company where ispaying=true
+
+
